@@ -8,6 +8,7 @@ body{
     flex-direction: column;
     height: 1200px;
     align-items: center;
+    background-color: rgb(39, 40, 61);
 }
 #nav{
     background-color: blueviolet;
@@ -21,7 +22,6 @@ body{
     border-radius: 10px;
 }
 #main{
-    background-color: lightblue;
     width: 80%;
     height: 100%;
     margin-bottom: 20px;
